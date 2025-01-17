@@ -1,5 +1,5 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://img.freepik.com/free-vector/gradient-bim-horizontal-banner_23-2150244627.jpg?semt=ais_hybrid)
 
 
 # Project Title
@@ -19,5 +19,10 @@ I'm a full stack developer...
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Javascript, HTML, CSS, 
+Flutter, Typescript, Angular, 
+Java, NodeJs
+Postgress, MongoDB, Docker
+Trello
+git
 
