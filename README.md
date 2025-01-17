@@ -1,5 +1,5 @@
 
-![Logo](https://img.freepik.com/free-vector/gradient-bim-horizontal-banner_23-2150244627.jpg?semt=ais_hybrid)
+![Logo](https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)
 
 
 # Project Title
