@@ -1,5 +1,5 @@
 
-![Logo](https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)
+![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThAOz8RsarSi2BG1T7vhKHOCxYKYckaFjQxg&s)
 
 
 # Project Title
