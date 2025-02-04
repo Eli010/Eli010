@@ -7,7 +7,7 @@
 Aplicación mobile de puntos de ventas más visitados de una localidad o ciudad.
 
 
-## Roadmap
+## Soft Skills
 
 - Adaptability,
 - Teamwork,
