@@ -9,9 +9,12 @@ Aplicación mobile de puntos de ventas más visitados de una localidad o ciudad.
 
 ## Roadmap
 
-- Additional browser support
-
-- Add more integrations
+- Adaptability,
+- Teamwork,
+- Ability to accept constructive criticism,
+- Empathy,
+- Accessibility,
+- Perseverance.
 
 
 ## 🚀 About Me
